@@ -83,7 +83,15 @@ body{
     letter-spacing: -0.02rem;
 }
 @media screen and (max-width:500px)
- {
+ { 
+    body{
+        width: 375px;
+        height: 812px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
     .card {
         max-width: 20.5rem;
       }
