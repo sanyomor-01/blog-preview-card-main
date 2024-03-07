@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution URL](https://github.com/sanyomor-01/blog-preview-card-main)
-- Live Site URL: [The live site URL here](https://blog-preview-card-main-rho-rust.vercel.app/)
+- Live Site URL: [The live site URL here](https://blog-preview-card-main-rho-rust.vercel.app)
 
 ## My process
 - Card structured with semantic html tags

@@ -5,8 +5,7 @@
     box-sizing: border-box;
 }
 body{
-    width: 90rem;
-    height: 60rem;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
